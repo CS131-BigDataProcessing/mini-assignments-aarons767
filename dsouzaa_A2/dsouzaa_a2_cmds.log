@@ -1,0 +1,1064 @@
+   20  npm start
+   21  npm i mysql2\n
+   22  sudo npm i mysql2\n
+   23  react-native -v
+   24  npm start
+   25  cd frontend_app
+   26  npm start
+   27  npm start
+   28  cd src
+   29  npm start
+   30  npm install
+   31  npm start
+   32  cd frontend_app
+   33  cd src
+   34  npm i mysql2\n
+   35  npm install express mysql2 cors dotenv\n
+   36  mkdir backend
+   37  cd backend
+   38  touch index.js
+   39  cd ..
+   40  npm install react-router-dom@6
+   41  cd GameCollection
+   42  cd frontend
+   43  cd src
+   44  cd ..
+   45  sudo npm install
+   46  npm start
+   47  cd /Users/aarond/Documents/game-wishlist-react-main/GameCollection/frontend
+   48  npm start
+   49  ls
+   50  cd frontend_app
+   51  ls
+   52  cd src
+   53  sudo npm start
+   54  sudo npm start
+   55  git init
+   56  cd frontend_app
+   57  git init
+   58  git commit
+   59  git commit *
+   60  npm install --save-dev redux-devtools-extension\n
+   61  cd /Users/aarond/Documents/game-wishlist-react-main/GameCollection/frontend
+   62  npm install --save-dev redux-devtools-extension\n
+   63  sudo npm install --save-dev redux-devtools-extension\n
+   64  sudo npm start
+   65  cd src
+   66  cd ..
+   67  git checkout aaron_front
+   68  git init
+   69  git checkout aaron_front
+   70  git fetch
+   71  git checkout aaron_front
+   72  git checkout aaron_fron
+   73  git remote update\n
+   74  git fetch \n
+   75  git checkout --track origin/aaronsfront
+   76  git commit
+   77  git remote -v\n
+   78  git remote -v\n
+   79  git remote add origin https://github.com/CS160-04-Spring2024/Team3--Local-Bites/tree/aaron_front
+   80  git fetch
+   81  git push
+   82  git checkout aaron_front
+   83  git push origin aaron_front\n
+   84  git init
+   85  git remote add origin /Users/aarond/Documents/160FrontEnd-testing/.git/
+   86  git add .
+   87  git commit -m "front end revised, home page done"
+   88  git push origin aaron_front
+   89  git add .
+   90  git push origin aaron_front
+   91  git show-ref
+   92  touch README
+   93  git add README
+   94  git add .
+   95  git commit -m 'reinitialized files'\n
+   96  git push origin aaron_front
+   97  git init\n
+   98  git add .\n
+   99  git commit -m 'message'\n
+  100  git checkout aaron_front
+  101  git remote add origin https://github.com/CS160-04-Spring2024/Team3--Local-Bites.git
+  102  https://github.com/CS160-04-Spring2024/Team3--Local-Bites.git
+  103  git info
+  104  git init
+  105  git checkout aaron
+  106  git checkout -b aaron
+  107  git init
+  108  git remote add origin /Users/aarond/Documents/160FrontEnd-testing/.git/
+  109  git add .\n
+  110  git commit -m "initial commit"\n
+  111  git push origin main\n
+  112  git remote rm origin\n
+  113  git remote add origin  https://aarons767:A232890glish@github.com/CS160-04-Spring2024/Team3--Local-Bites.git\n
+  114  git add .
+  115  git checkout aaron
+  116  git push origin aaron
+  117  git push origin aaron
+  118  cd frontend_app
+  119  npm i mysql2\n
+  120  sudo npm install
+  121  npm install
+  122  cd frontend_app
+  123  npm install
+  124  npm i mysql2\n
+  125  npm i mysql2\n
+  126  sudo npm i mysql2
+  127  npm start
+  128  cd frontend_app
+  129  ng start
+  130  npm start
+  131  npm start
+  132  cd frontend_app
+  133  npm start
+  134   /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:51350 --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/aarond/Library/Application\ Support/Code/User/workspaceStorage/28c0d0d7c6e5ee6062b06f136b955264/redhat.java/jdt_ws/Homework13_b57b804f/bin wkspc.Server 
+  135  cd wjspc
+  136  cd wkspc
+  137  javac Server.java
+  138  javac Client.java
+  139  javac Server
+  140  java Server
+  141  java Server
+  142  java Client
+  143  java Client.class
+  144  cd..
+  145  cd ..
+  146  java Client
+  147  java Client
+  148  java -version
+  149  cd wkspc
+  150  javac Client.java
+  151  javac Server.java
+  152  java Server
+  153  java Server
+  154  java wkspc/Client.java
+  155  java /Users/aarond/Documents/Homework13/wkspc/Client.class
+  156  jvm arg -verbose
+  157  java Test
+  158  cd Documents
+  159  cd mkdir
+  160  mkdir homework
+  161  javac Client.java
+  162  javac Server.java
+  163  javac Client.java
+  164  java Client.java
+  165  java Server.java
+  166  java Client
+  167  java Server
+  168  java Client
+  169  java Server
+  170  java Client
+  171  java DateClient
+  172  javac DateClient.java
+  173  javac DateServer.java
+  174  java DateServer
+  175  cd Documents
+  176  mkdir
+  177  mkdir homeworkProb2
+  178  cd ..
+  179  /usr/local/mysql/bin/mysql -u root -p\n
+  180  /usr/local/mysql/bin/mysql -u root -p\n
+  181  /usr/local/mysql/bin/mysql -u root -p\n
+  182  /usr/local/mysql/bin/mysql -u root -p\n
+  183  /usr/local/mysql/bin/mysql -u root -p\n
+  184  cd frontend_app
+  185  cd src
+  186  ng start
+  187  ls
+  188  cd ..
+  189  npm start
+  190  cd frontend_app
+  191  cd frontend_app
+  192  npm start
+  193  cd frontend_app
+  194  git push orgin -u aaronfront
+  195  git push origin -u https://github.com/chrischin555/Video-Game-Library.git
+  196  git status
+  197  git commit -m "game home page and wishlist"
+  198  git init
+  199  git commit -m "game home page and wishlist"
+  200  git add *
+  201  git remote add origin https://github.com/chrischin555/Video-Game-Library.git
+  202  git checkout gamepage,-wishlist
+  203  gamepage,-wishlist
+  204  git checkout gamepage,-wishlist
+  205  git push -u main gamepage,-wishlist
+  206  git checkout main
+  207  git status
+  208  git fetch
+  209  git commit -m "initials"
+  210  git checkout newBranch
+  211  git checkout gamepage,-wishlist
+  212  git push
+  213  git push orgin main
+  214  git checkout main
+  215  git push
+  216  git push --set-upstream origin main
+  217  git pull
+  218  git pull origin main
+  219  git checkout gamepage,-wishlist
+  220  git push origin gamepage,-wishlist
+  221  git checkout main
+  222  git checkout gamepage,-wishlist
+  223  git revert
+  224  git revert
+  225  git checkout main
+  226  npm start
+  227  cd frontend_app
+  228  npm start
+  229  sudo npm start
+  230  git checkout gamepage,-wishlist
+  231  cd server
+  232  npm start
+  233  npm start
+  234  cd frontend_app
+  235  npm start
+  236  npm install
+  237  npm start
+  238  git commit -m "initials"
+  239  git status
+  240  git remote add https://github.com/chrischin555/Video-Game-Library.git
+  241  git push origin main
+  242  git add *
+  243  git remote add https://github.com/chrischin555/Video-Game-Library.git
+  244  cd frontend_app
+  245  git add *
+  246  git push
+  247  git push --set-upstream origin main
+  248  git fetch
+  249  git push
+  250  git push -u origin gamepage,-wishlist
+  251  git push -u main gamepage,-wishlist
+  252  git push -u origin gamepage,-wishlist
+  253  git remote -v
+  254  git push -u origin main
+  255  git fetch origin
+  256  git merge origin gamepage,-wishlist
+  257  git merge main gamepage,-wishlist
+  258  git fetch origin main        \n
+  259  git merge origin/main        \n
+  260  git --allow-unrelated-histories
+  261  git merge --allow-unrelated-histories
+  262  git status
+  263  git add *
+  264  cd frontend_app
+  265  npm start
+  266  git pull
+  267  git add
+  268  git add *
+  269  git status
+  270  git commit -m "intials"
+  271  git push
+  272   git push --set-upstream origin main
+  273  git checkout alextesting
+  274  git checkout main
+  275  git checkout alextesting
+  276  npm start
+  277  cd frontend_app
+  278  npm start
+  279  cd server
+  280  npm start
+  281  cd frontend_app
+  282  npm start
+  283  npm start
+  284  npm run
+  285  git checkout main
+  286  npm start
+  287  sudo npm start
+  288  npm start
+  289  cd frontend_app
+  290  npm start
+  291  cd src
+  292  npm start
+  293  /usr/local/mysql/bin/mysql -u root -p\n
+  294  cd frontend_app
+  295  npm start
+  296  npm install
+  297  npm start
+  298  cd server
+  299  npm start
+  300  cd src 
+  301  cd app
+  302  ng serve
+  303  cd frontend_app
+  304  npm start
+  305  npm install
+  306  npm start
+  307  npm start
+  308  git checkout alextesting
+  309  cd frontend_app
+  310  git checkout alextesting
+  311  git commit -m "initials"
+  312  git add *
+  313  git checkout alextesting
+  314  git commit -m 'testtingtesting'
+  315  git checkout alextesting
+  316  npm start
+  317  npm install
+  318  npm start
+  319  npm run
+  320  npm start
+  321  git checkout main
+  322  git commit -m 'done'
+  323  pp.get('/user/details', (req, res) => {\n  const email = req.query.email;\n  console.log("Fetching user details for email:", email);\n\n  const query = 'SELECT Username, Email FROM Users WHERE Email = ?';\n  db.query(query, [email], (err, results) => {\n    // Improved error handling and response\n    if (err) {\n      console.error("Database error:", err);\n      return res.status(500).json({ error: 'An error occurred while fetching user details' });\n    }\n    if (results.length > 0) {\n      res.json(results[0]);\n    } else {\n      res.status(404).json({ message: 'User not found' });\n    }\n  });\n});\n\n\n// Endpoint to get user's wishlist\napp.get('/user/wishlist', (req, res) => {\n  const email = req.query.email;\n  console.log("Fetching wishlist for email:", email);\n\n  const query = `SELECT Games.GameID, Games.GameTitle, Games.Category, Games.DateReleased, Games.Publisher \n                 FROM Games \n                 JOIN WishList ON Games.GameID = WishList.GameID \n                 JOIN Users ON WishList.UserID = Users.UserID \n                 WHERE Users.Email = ?`;\n  db.query(query, [email], (err, results) => {\n      if (err) {\n          console.error("Database error during fetching wishlist:", err);\n          return res.status(500).send('Database error during fetching wishlist');\n      }\n      console.log("Wishlist items retrieved:", results);\n      res.send(results);\n  });\n});\n\n\n// Endpoint to get user's reviews\napp.get('/user/reviews', (req, res) => {\n  const email = req.query.email;\n  console.log("Fetching reviews for email:", email);\n\n  const query = `SELECT Reviews.ReviewID, Reviews.Comment, Reviews.Rating, Games.GameTitle \n                 FROM Reviews \n                 JOIN Games ON Reviews.GameID = Games.GameID \n                 JOIN Users ON Reviews.UserID = Users.UserID \n                 WHERE Users.Email = ?`;\n  db.query(query, [email], (err, results) => {\n      if (err) {\n          console.error("Database error during fetching reviews:", err);\n          return res.status(500).send('Database error during fetching reviews');\n      }\n      console.log("Reviews retrieved:", results);\n      res.send(results);\n  });\n});\n
+  324  git commit -m 'initials'
+  325  git checkout main
+  326  git add *
+  327  git commit -m 'intials done'
+  328  git checkout main
+  329  git checout main
+  330  git checkout main
+  331  cd server
+  332  npm start
+  333  cd frontend_app
+  334  npm start
+  335  cd server
+  336  npm start
+  337  cd frontend_app
+  338  npm start
+  339  cd frontend_app
+  340  npm start
+  341  cd server
+  342  npm start
+  343  npm start
+  344  cd frontend_main
+  345  cd frontend_app
+  346  npm start
+  347  cd server
+  348  npm start
+  349  cd server 
+  350  npm start
+  351  cd frontend_app
+  352  npm start
+  353  cd server
+  354  npm start
+  355  cd frontend_app
+  356  npm start
+  357  cd frontend_app
+  358  npm start
+  359  cd frontend_app
+  360  git add *
+  361  git commit -m 'game pages(reiews and ratings) done'
+  362  git push
+  363  git checkout gamepage,-wishlist
+  364  git checkout main
+  365  git add *
+  366  git commit -m 'game page done, needs session handling'
+  367  git push
+  368   git push --set-upstream origin main
+  369  cd server
+  370  npm start
+  371  cd frontend_app
+  372  ng start
+  373  yes
+  374  cd src
+  375  npm install
+  376  ng serve
+  377  cd src
+  378  npm install
+  379  ng serve
+  380  cd Homework4
+  381  $ solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin\n
+  382  sudo npm install ganache-cli web3 solc
+  383  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  384  cd Homework4
+  385  npm install ganache-cli web3 solc
+  386  sudo  npm install ganache-cli web3 solc
+  387  ./node_modules/.bin/ganache-cli
+  388  cd Homework4
+  389  mapping(address => uint) private burnedTokens;\n    mapping(address => bytes32) private sgAddresses
+  390  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  391  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  392  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  393  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  394  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  395  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  396  cd homework4
+  397  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  398  sudo npm install ganache-cli web3 solc
+  399  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  400  `npm root -g`/ganache-cli/cli.js\n
+  401  sudo yarn global add ganache
+  402  npm install -g ganache-cli\n
+  403  sudo npm install -g ganache-cli\n
+  404  sudo yarn global add ganache\n
+  405  ./node_modules/.bin/
+  406  sudo ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  407  cd Homework4
+  408  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  409   ./node_modules/.bin/ganache-cli\n\n
+  410  cd homework4
+  411  sudo ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  412  cd homework4
+  413  node test.js
+  414  node test.js
+  415  node test.js
+  416  node test.js
+  417  node test.js
+  418  node test.js
+  419  cd frontend_app
+  420  npm install
+  421  npm start
+  422  cd server
+  423  npm start
+  424  npm start
+  425  cd frontend_app
+  426  npm start
+  427  cd server
+  428  npm start
+  429  cd localbites_frontend
+  430  cd src
+  431  ng serve
+  432  cd localbites_frontend
+  433  cd src
+  434  npm install
+  435  ng serve
+  436  cd localbites_frontend
+  437  ng serve
+  438  npm instal
+  439  ng serve
+  440  cd frontend_app
+  441  cd localbites_frontend
+  442  ng serve
+  443  cd Homework4
+  444  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  445  node test.js
+  446  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  447   ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  448  node test.js
+  449  cd Homework4
+  450  ./node_modules/.bin/ganache-cli
+  451  npm run start
+  452  NPM RUN DEV
+  453  npm run dev
+  454  npm install --save-dev nodemon
+  455  npm run start
+  456  npm run dev
+  457  npm install --save-dev nodemon
+  458  npm run dev
+  459  sudo npm run dev
+  460  ls -l /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon\n
+  461  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon\n
+  462  npm run dev
+  463  ls -l /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon\n
+  464  /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon --version\n
+  465  npx nodemon\n
+  466  cd
+  467  npm install --save-dev nodemon
+  468  npm run dev
+  469  npm install --save-dev nodemon
+  470  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon\n
+  471  npm run dev
+  472  ls -l /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  473  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  474  npm run dev\n
+  475  npm run start
+  476  cd localbites_frontend
+  477  npm run start
+  478  cd localbites_frontend
+  479  ng serve
+  480  npm instal
+  481  ng serve
+  482  cd localbites_backend
+  483  npm start dev
+  484  npm run dev
+  485  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  486  cd localbites_backend
+  487  npm run dev
+  488  npm install --save-dev nodemon
+  489  CD localbites_frontend
+  490  ng serve
+  491  npm start
+  492  npm run start
+  493  cd localbites_frontend
+  494  npm run start
+  495  ls -l /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  496  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  497  npm run dev\n
+  498  ls -l /Users/aarond/Desktop/CS160Proj-main/localbites_backend/node_modules/.bin/nodemon\n
+  499  chmod +x /Users/aarond/Desktop/CS160Proj-main/localbites_backend/node_modules/.bin/nodemon\n
+  500  ls -l /Users/aarond/Desktop/CS160Proj-main/localbites_backend/node_modules/.bin/nodemon\n
+  501  npm run dev\n
+  502  ls -l /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  503  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  504  npm run dev\n
+  505  ls
+  506  cd src
+  507  ls
+  508  npm run dev
+  509  npm install --save-dev nodemon
+  510  npm run dev
+  511  cd
+  512  npm install --save-dev nodemon
+  513  ls
+  514  cd localbites_frontend
+  515  npm start 
+  516  npm start
+  517  /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  518  chmod +x /Users/aarond/Desktop/CS160Proj-main/localbites_backend/node_modules/.bin/babel-node\n
+  519  ls -l /Users/aarond/Desktop/CS160Proj-main/localbites_backend/node_modules/.bin/babel-node\n
+  520  npm run dev\n
+  521  npm instal
+  522  npm run dev\n
+  523  npm install --save-dev nodemon
+  524  npm run dev\n
+  525  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon\n
+  526  npm run dev\n
+  527  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon\n
+  528  ls -l /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon\n
+  529  /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/nodemon --version\n
+  530  npm run dev\n
+  531  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash\n
+  532  ls -l /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  533  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  534  /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node --version\n
+  535  npm run dev\n
+  536  /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node --version\n
+  537  chmod +x /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node\n
+  538  /Users/aarond/Documents/160ProjectFinal/CS160Proj/localbites_backend/node_modules/.bin/babel-node --version\n
+  539  npm instal
+  540  cd Homework4
+  541  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  542  cd Homework4
+  543  node test.js
+  544  cd Homework4
+  545  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  546  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  547  clear
+  548  node test.js
+  549  cd Homework4
+  550   ./node_modules/.bin/ganache-cli
+  551  clear
+  552  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  553  cd Homework4
+  554  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  555  node test.js
+  556  cd Homework4
+  557  npm install
+  558  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  559  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  560  ./node_modules/.bin/ganache-cli
+  561  node test.js
+  562  node test.js
+  563  node test.js
+  564  node test.js
+  565  npm install web3\n
+  566  sudo npm install web3
+  567  rm -rf node_modules package-lock.json\n
+  568  npm install\n
+  569  sudo npm install
+  570  node test.js
+  571  npm install simple-concat\n
+  572  sudo npm install simple-concat
+  573  node test.js
+  574  cd Homework4
+  575  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  576  node test.js
+  577  node test.js
+  578  sudo npm install
+  579  node test.js
+  580  cd Homework4
+  581  npm install ganache-cli web3 solc
+  582  sudo npm install ganache-cli web3 solc
+  583  ./node_modules/.bin/ganache-cli
+  584  sudo npm install
+  585  ./node_modules/.bin/ganache-cli
+  586  cd Homework4
+  587  ls
+  588  npm run test
+  589  sudo npm install ganache-cli web3 solc
+  590  node test.js
+  591  node test.js
+  592  node test.js
+  593  node test.js
+  594  cd Homework4
+  595  node test.js
+  596  npm start
+  597  npm run
+  598  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  599  node test.js
+  600  ./node_modules/.bin/solcjs --bin --abi ERC20Interface.sol
+  601  node test.js
+  602  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  603  node test.js
+  604  cd homework4
+  605   ./node_modules/.bin/ganache-cli
+  606  clear
+  607  ./node_modules/.bin/solcjs --bin --abi ERC20Interface.sol
+  608  node test.js
+  609  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  610  node test.js
+  611  cd Homework4
+  612  ls
+  613  sudo npm install
+  614  ./node_modules/.bin/ganache-cli
+  615   npm install ganache-cli web3 solc
+  616  npm install ganache-cli web3 solc
+  617  sudo npm install ganache-cli web3 solc
+  618   ./node_modules/.bin/ganache-cli
+  619  cd ..
+  620  clear
+  621  npm install
+  622  sudo npm install
+  623  cd test
+  624  ls
+  625  sudo npm install ganache-cli web3 solc
+  626  sudo npm install
+  627  ./node_modules/.bin/ganache-cli
+  628  npm install
+  629  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin\n
+  630  sudo npm install
+  631  npm init
+  632  node test.js
+  633  npm install ganache-cli web3 solc
+  634  try npm install ganache --global
+  635  npm install ganache --global
+  636  sudo npm install ganache --global
+  637   npm install ganache-cli web3 solc
+  638  ./node_modules/.bin/ganache-cli
+  639  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  640  ganache-cli -m "receive sphere inch reject vocal vocal fiber tomato charge cushion mistake hunt"
+  641  node test.js
+  642  try npm install ganache --global 
+  643  npm install ganache --global
+  644  sudo npm install ganache --global
+  645  node test.js
+  646  ./node_modules/.bin/ganache-cli
+  647  clear
+  648  npm install ganache --global
+  649  sudo npm install ganache --global
+  650  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  651  cd hw4
+  652  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  653  ./node_modules/.bin/ganache-cli
+  654   ./node_modules/.bin/ganache-cli
+  655  sudo npm install ganache --global
+  656  /node_modules/.bin/ganache-cli
+  657  npm install ganache-cli web3 solc
+  658  sudo npm install ganache-cli web3 solc
+  659  ./node_modules/.bin/ganache-cli
+  660  ./node_modules/.bin/ganache-cli
+  661  ./node_modules/.bin/ganache-cli\n\n
+  662  cd hw4
+  663  npm install ganache --global
+  664  sudo npm install ganache --global
+  665  ./node_modules/.bin/solcjs --bin --abi Auction.sol
+  666  solcjs SpartanPyrite.sol ERC20Interface.sol --abi --bin
+  667  node test.js
+  668  cd localbites_frontend
+  669  npm start dev
+  670  localbites_backend
+  671  npm start dev
+  672  cd ..
+  673  cd localbites_backend
+  674  npm start dev
+  675  sudo npm start dev
+  676  npm run
+  677  cd ..
+  678  cd localbites_backend
+  679  npm run dev
+  680  npm start dev
+  681  sudo npm start dev
+  682  cd localbites_frontend
+  683  npm start
+  684  ls -l /Users/aarond/Documents/CS160Proj2/localbites_backend/node_modules/.bin/babel-node\n
+  685  npm start dev
+  686  npm run dev
+  687  ls -l /Users/aarond/Documents/CS160Proj2/localbites_backend/node_modules/.bin/nodemon\n
+  688  ls -l /Users/aarond/Documents/CS160Proj2/localbites_backend/node_modules/.bin/nodemon\n
+  689  chmod +x /Users/aarond/Documents/CS160Proj2/localbites_backend/node_modules/.bin/nodemon\n
+  690  npm uninstall nodemon\n
+  691  npm install nodemon --save-dev\n
+  692  sudo npm install nodemon --save-dev
+  693  npm install -g nodemon\n
+  694  sudo npm install -g nodemon
+  695  clear
+  696  npm run dev
+  697  npm uninstall @babel/node\n
+  698  npm install @babel/node --save-dev\n
+  699  npm cache clean --force\n
+  700  cd ..
+  701  cd ..
+  702  cd ..
+  703  chmod +x /Users/aarond/Documents/CS160Proj2/localbites_backend/node_modules/.bin/babel-node\n
+  704  cd ..
+  705  chmod +x /Users/aarond/Documents/CS160Proj2/localbites_backend/node_modules/.bin/babel-node\n
+  706  npm run dev
+  707  npm run dev
+  708  cd localbites_backend
+  709  npm start dev
+  710  npm run dev
+  711  cd localbites_frotend
+  712  cd localbites_frontend
+  713  npm start
+  714  npm run
+  715  npm start
+  716  cd localbites_frontend
+  717  npm start
+  718  cd localbites_backend
+  719  npm run dev
+  720  cd localbites_frontend
+  721  npm start
+  722  npm start
+  723  npm i @ionic/angular\n\n
+  724  npm start
+  725  npm start
+  726  cd localbites_frontend
+  727  npm start
+  728  cd localbites_backend
+  729  npm run dev
+  730  npm run dev
+  731  sudo npm install
+  732  sudo npm install merkletreejs
+  733  node merkledriver.js
+  734  node merkledriver.js
+  735  cd sg
+  736  ls
+  737  sudo npm install
+  738  sudo npm install merkletreejs
+  739  node merkledriver.js
+  740  node merkledriver.js
+  741  ls
+  742  cd SpartanGoldRevamp-master
+  743  sudo npm install
+  744  npm install merkletreejs
+  745  sudo npm install merkletreejs
+  746  node merkledriver.js
+  747  ls
+  748  cd SpartanGoldRevamp-master
+  749  ls
+  750  node merkledriver.js
+  751  node merkledriver.js
+  752  node merkledriver.js
+  753  node merkledriver.js
+  754  node merkledriver.js
+  755  node merkledriver.js
+  756  node merkledriver.js
+  757  node merkledriver.js
+  758  node merkledriver.js
+  759  node merkledriver.js
+  760  node merkledriver.js
+  761  node merkledriver.js
+  762  node merkledriver.js
+  763  node merkledriver.js
+  764  node merkledriver.js
+  765  node merkledriver.js
+  766  node merkledriver.js
+  767  node merkledriver.js
+  768  node merkledriver.js
+  769  node merkledriver.js
+  770  node merkledriver.js
+  771  node merkledriver.js
+  772  node merkledriver.js
+  773  node merkledriver.js
+  774  sudo npm install
+  775  node merkledriver.js
+  776  node merkledriver.js
+  777  node merkledriver.js
+  778  sudo npm install
+  779  sudo npm install
+  780  node merkledriver.js
+  781  ls
+  782  cd SpartanGoldRevamp-master
+  783  ls
+  784  node merkledriver.js
+  785  npm install bip39
+  786  node merkledriver.js
+  787  node merkledriver.js
+  788  node merkledriver.js
+  789  node merkledriver.js
+  790  node merkledriver.js
+  791  node merkledriver.js
+  792  node merkledriver.js
+  793  node merkledriver.js
+  794  node merkledriver.js
+  795  mysql
+  796  mysql -u root -p
+  797  mysql -u root -p
+  798  cd SpartanGoldRevamp-master
+  799  npm install
+  800  node merkledriver.js
+  801  node merkledriver.js
+  802  node merkledriver.js
+  803  node merkledriver.js
+  804  node merkledriver.js
+  805  node merkledriver.js
+  806  node merkledriver.js
+  807  node merkledriver.js
+  808  node merkledriver.js
+  809  node merkledriver.js
+  810  node merkledriver.js
+  811  node merkledriver.js
+  812  node merkledriver.js
+  813  node merkledriver.js
+  814  node merkledriver.js
+  815  node merkledriver.js
+  816  node merkledriver.js
+  817  node merkledriver.js
+  818  node merkledriver.js
+  819  node merkledriver.js
+  820  node merkledriver.js
+  821  node merkledriver.js
+  822  node merkledriver.js
+  823  node merkledriver.js
+  824  node merkledriver.js
+  825  node merkledriver.js
+  826  node merkledriver.js
+  827  node merkledriver.js
+  828  node merkledriver.js
+  829  node merkledriver.js
+  830  node merkledriver.js
+  831  node merkledriver.js
+  832  node merkledriver.js
+  833  node merkledriver.js
+  834  node merkledriver.js
+  835  node merkledriver.js
+  836  node merkledriver.js
+  837  node merkledriver.js
+  838  node merkledriver.js
+  839  node merkledriver.js
+  840  node merkledriver.js
+  841  node merkledriver.js
+  842  clear
+  843  node merkledriver.js
+  844  node merkledriver.js
+  845  node merkledriver.js
+  846  node merkledriver.js
+  847  node merkledriver.js
+  848  node merkledriver.js
+  849  cd Desktop
+  850  git clonehttps://github.com/aarons767/githubtest.git
+  851  git config user.name "aarons767"
+  852  git config user.email "aarondsouza42@gmail.com"
+  853  cd Documents
+  854  git clone git@github.com:your/github/repository
+  855  ssh-keyscan github.com >> ~/.ssh/known_hosts\n
+  856  git clone git@github.com:your/github/repository
+  857  git clone https://github.com/aarons767/a1-collab-aarons767.git
+  858  ls
+  859  cd /Users/aarond/Documents/a1-collab-aarons767
+  860  git branch aarons-colab
+  861  git branch
+  862  git checkout aarons-colab
+  863  git branch
+  864  ls
+  865  nano Collaborators.md\n
+  866  vim Collaborators.md
+  867  git status
+  868  git push --set-upstream origin aarons-colab
+  869  git stage
+  870  vim Collaborators.md
+  871  vim Collaborators.md
+  872  git stage
+  873  git commit "Finished Collaborators.md"
+  874  git commit
+  875  git branch
+  876  git commit
+  877  git add Collaborators.md\n
+  878  git add Collaborators.md\n
+  879  git commit -m "Finished Collaborators.md"
+  880  git pull origin main\n
+  881  git branch
+  882  git checkout main\n
+  883  git merge aarons-colab
+  884  git add Collaborators.md\n
+  885  git commit -m "aaron added to Collaborators"
+  886  git push
+  887  ssh-keygen -t rsa
+  888  le -la
+  889  ls -la
+  890  cat tempp.pub
+  891  cd Documents
+  892  ls
+  893  ls -l
+  894  cd ..
+  895  ls -l
+  896  cd Documents
+  897  ls -l
+  898  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  899  ls -al ~/.ssh\n
+  900  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  901  ssh -vT git@github.com\n
+  902  ssh -T aarons767@github.com
+  903  ssh -T aarons767@github.com
+  904  ssh -vT git@github.com\n
+  905  ssh-keygen -t ed25519 -C "aarondsouza42@gmail.com"
+  906  eval "$(ssh-agent -s)"
+  907  open ~/.ssh/config
+  908  cd ..
+  909  open ~/.ssh/config
+  910  touch ~/.ssh/config\n
+  911  open ~/.ssh/config
+  912  ls
+  913  cd users
+  914  vim tempp
+  915  open ~/.ssh/config
+  916  open ~/.ssh/tempp.pub
+  917  open ~/.ssh/tempp
+  918  open ~/.ssh/config
+  919  open ~/.ssh/config
+  920  open ~/.ssh/id_ed25519
+  921  open ~/.ssh/tempp
+  922  ssh-keygen -t ed25519 -C "aarondsouza42@gmail.com"
+  923  open ~/.ssh/id_ed25519
+  924  ssh-add --apple-use-keychain ~/.ssh/id_ed25519\n
+  925  open ~./ssh
+  926  open ~/.ssh
+  927  cd Documents
+  928  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  929  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  930  git bash
+  931  cd CS131_fa24_datafiles/Lec02\n
+  932  cd documents
+  933  ls
+  934  cd /Users/aarond/Documents/CS131_fa24_datafiles
+  935  ls
+  936  grep -o 'wor*' goodluck.txt\n
+  937  ls
+  938  cd Lec02
+  939  ls
+  940  grep -o 'wor*' goodluck.txt\n
+  941  vim goodluck.txt
+  942  ls
+  943  cd Documents
+  944  ls -
+  945  ls
+  946  ls -l
+  947  ls -la
+  948  ls -
+  949  ls
+  950  cd /Users/aarond/Documents/CS131_fa24_datafiles/Lec02
+  951  ls
+  952  grep 'wor' goodluck.txt
+  953  grep '*wor' goodluck.txt
+  954  grep 'wor*' goodluck.txt
+  955  grep 'dred' goodluck.txt
+  956  grep -o 'wor' goodluck.txt
+  957  grep -o 'dred' goodluck.txt
+  958  cd ..
+  959  cd ..
+  960  cd ..
+  961  cd documents
+  962  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-aarons767.git
+  963  ls
+  964  cd /Users/aarond/Documents/mini-assignments-aarons767
+  965  ls
+  966  git branch aarons767-mini
+  967  git branch
+  968  git checkout aarons767-mini
+  969  git branch
+  970  git add a2_shell_log.txt
+  971  git add a2_shell_log.txt
+  972  git commit -m "added shell history file"
+  973  git status
+  974  git pull origin main
+  975  git checkout main
+  976  git merge aarons767-mini
+  977  git push
+  978  cd ..
+  979  cd ..
+  980  ssh
+  981  ssh adsouzafa24@172.20.25.9
+  982  adsouzafa24@172.20.25.9
+  983  ssh adsouzafa24@172.20.25.9
+  984  adsouzafa24@172.20.25.9
+  985  ssh adsouzafa24@172.20.25.9
+  986  python --version
+  987  python3 --version
+  988  ssh adsouzafa24@172.20.25.9
+  989  ls
+  990  cd /Users/aarond/Documents/CS131_fa24_datafiles/Lec02/goodluck.txt
+  991  ls
+  992  cd /Users/aarond/Documents/CS131_fa24_datafiles/Lec02
+  993  ls
+  994  ssh adsouzafa24@172.20.25.9
+  995  vim t
+  996  vi t
+  997  ls
+  998  vi t
+  999  rm t
+ 1000  ls
+ 1001  ls
+ 1002  cd documents
+ 1003  ls
+ 1004  cd Documents
+ 1005  ls
+ 1006  ls
+ 1007  cd /Users/aarond/Documents/CS131_fa24_datafiles/Lec02
+ 1008  ls
+ 1009  grep wor goodluck.txt
+ 1010  grep `wor` goodluck.txt
+ 1011  grep -o wor goodluck.txt
+ 1012  grep '\bwor\w*' goodluck.txt
+ 1013  grep '\wwor\w*' goodluck.txt
+ 1014  grep -o '\w*wor\w*' goodluck.txt
+ 1015  grep -o '\w*dred\w*' goodluck.txt
+ 1016  grep Good Luck, babe goodluck.txt
+ 1017  grep '\w*Good Luck, babe\w*' goodluck.txt
+ 1018  grep 'Good Luck, babe' goodluck.txt
+ 1019  grep "Good Luck, babe" goodluck.txt
+ 1020  grep `Good Luck, babe` goodluck.txt
+ 1021  grep `\w*Good Luck, babe\w*` goodluck.txt
+ 1022  grep 'Good Luck, babe' goodluck.txt
+ 1023  grep 'Good .*Luck.*babe' goodluck.txt
+ 1024  grep "Good .*Luck.*babe" goodluck.txt
+ 1025  grep `Good .*Luck.*babe` goodluck.txt
+ 1026  grep "Good.*Luck.*babe" goodluck.txt
+ 1027  grep "Good.*Luck,.*babe" goodluck.txt
+ 1028  grep -l "Good.*Luck,.*babe" goodluck.txt
+ 1029  grep -l "Good Luck, babe" goodluck.txt
+ 1030  grep "Good Luck, babe" goodluck.txt
+ 1031  grep -F  "Good Luck, babe" goodluck.txt
+ 1032  ls
+ 1033  grep -F  Good Luck.*babe goodluck.txt
+ 1034  grep `Good Luck? babe` goodluck.txt
+ 1035  grep `Good Luck.*babe` goodluck.txt
+ 1036  grep `Good Luck, babe` goodluck.txt
+ 1037  grep `\w*Good Luck, babe\w*` goodluck.txt
+ 1038  grep "Good Luck.*babe" goodluck.txt
+ 1039  grep "Good.*Luck.*,.*babe" goodluck.txt
+ 1040  grep -L "Good.*Luck.*,.*babe" goodluck.txt
+ 1041  grep -E "Good.*Luck.*,.*babe" goodluck.txt
+ 1042  grep `Good.*Luck.*,.*babe` goodluck.txt
+ 1043  grep -E "Good Luck,.*babe" goodluck.txt
+ 1044  grep "Good Luck,.*babe" goodluck.txt
+ 1045  grep "Good Luck, babe" goodluck.txt
+ 1046  grep "Good luck, babe" goodluck.txt
+ 1047  wc - l grep "Good luck, babe" goodluck.txt
+ 1048  wc -l grep "Good luck, babe" goodluck.txt
+ 1049  wc -l goodluck.txt
+ 1050  grep "Good luck, babe" goodluck.txt
+ 1051  wc -l
+ 1052  grep "Good luck, babe" goodluck.txt > glTemp.txt
+ 1053  wc -l glTemp.txt > dsouzaa_a2_counts.txt
+ 1054  wc -w glTemp.txt >> dsouzaa_a2_counts.txt
+ 1055  ls
+ 1056  vi dsouzaa_a2_counts.txt
+ 1057  vi dsouzaa_a2_counts.txt
+ 1058  vi dsouzaa_a2_counts.txt
+ 1059  vi dsouzaa_a2_counts.txt
+ 1060  vi dsouzaa_a2_counts.txt
+ 1061  ls
+ 1062  cd ..
+ 1063  ls
+ 1064  cd ..
+ 1065  ls
+ 1066  ls
+ 1067  cd /Users/aarond/Documents/CS131_fa24_datafiles/Lec02
+ 1068  ls
+ 1069  history > dsouzaa_a2_cmds.log
+ 1070  ls
+ 1071  cd ..
+ 1072  cd /Users/aarond/Documents/mini-assignments-aarons767
+ 1073  mkdir dsouzaa_A2
+ 1074  ls
+ 1075  cd dsouzaa_A2
+ 1076  ls
+ 1077  cd /Users/aarond/Documents/CS131_fa24_datafiles/Lec02
+ 1078  ls
+ 1079  mv dsouzaa_a2_cmds.log /Users/aarond/Documents/mini-assignments-aarons767/dsouzaa_A2
+ 1080  mv dsouzaa_a2_counts.log /Users/aarond/Documents/mini-assignments-aarons767/dsouzaa_A2
+ 1081  mv dsouzaa_a2_counts.txt /Users/aarond/Documents/mini-assignments-aarons767/dsouzaa_A2
+ 1082  cd /Users/aarond/Documents/mini-assignments-aarons767/dsouzaa_A2
+ 1083  history 100 > dsouzaa_a2_cmds.log
