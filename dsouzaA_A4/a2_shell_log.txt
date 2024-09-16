@@ -1,0 +1,66 @@
+Last login: Mon Aug 26 13:05:02 on ttys000
+aarond@Aarons-MacBook-Pro ~ % ls
+Creative Cloud Files	Movies			package-lock.json
+Desktop			Music			package.json
+Documents		Pictures		tempp
+Downloads		Public			tempp.pub
+Library			node_modules		zshrc
+aarond@Aarons-MacBook-Pro ~ % cd Documents
+aarond@Aarons-MacBook-Pro Documents % ls -
+ls: -: No such file or directory
+aarond@Aarons-MacBook-Pro Documents % ls
+ls: .: Operation not permitted
+aarond@Aarons-MacBook-Pro Documents % ls -l
+total 0
+ls: .: Operation not permitted
+aarond@Aarons-MacBook-Pro Documents % ls -la
+total 0
+ls: .: Operation not permitted
+aarond@Aarons-MacBook-Pro Documents % ls -
+ls: -: No such file or directory
+aarond@Aarons-MacBook-Pro Documents % ls
+ls: .: Operation not permitted
+aarond@Aarons-MacBook-Pro Documents % cd /Users/aarond/Documents/CS131_fa24_datafiles/Lec02
+aarond@Aarons-MacBook-Pro Lec02 % ls
+goodluck.txt
+aarond@Aarons-MacBook-Pro Lec02 % grep 'wor' goodluck.txt
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+aarond@Aarons-MacBook-Pro Lec02 % grep '*wor' goodluck.txt
+aarond@Aarons-MacBook-Pro Lec02 % grep 'wor*' goodluck.txt
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+You'd have to stop the world just to stop the feeling
+aarond@Aarons-MacBook-Pro Lec02 % grep 'dred' goodluck.txt       
+You can kiss a hundred boys in bars
+You can kiss a hundred boys in bars
+You can kiss a hundred boys in bars
+aarond@Aarons-MacBook-Pro Lec02 % grep -o 'wor' goodluck.txt
+wor
+wor
+wor
+wor
+wor
+wor
+wor
+wor
+wor
+aarond@Aarons-MacBook-Pro Lec02 % grep -o 'dred' goodluck.txt
+dred
+dred
+dred
+aarond@Aarons-MacBook-Pro Lec02 % 
+
