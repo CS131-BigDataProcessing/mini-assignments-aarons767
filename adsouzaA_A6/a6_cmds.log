@@ -1,0 +1,644 @@
+    1  passwd
+    2  mkdir test
+    3  ls
+    4  rmdir test
+    5  ls
+    6  mkdir tester 01
+    7  ls
+    8  ls -l
+    9  rmdir 01
+   10  rmdir tester
+   11  ls
+   12  ls -l
+   13  man
+   14  man tar
+   15  man --help
+   16  man -usage
+   17  tar -usage
+   18  man tar -usage
+   19  ls -f
+   20  man 
+   21  man all
+   22  man -f
+   23  ls -F
+   24  ls
+   25  ls -F
+   26  mkdir tester
+   27  ls
+   28  ls -F
+   29  ls -latr
+   30  ls -lat
+   31  ls -lahtr
+   32  cd tester
+   33  vim text.txt
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd tester
+   38  mkdir testersub
+   39  ls
+   40  cp text.txt
+   41  cp text.txt ../testersub
+   42  ls
+   43  cd testersub
+   44  ls
+   45  cp text.txt ../testersub/
+   46  cd ..
+   47  ls
+   48  cd ..
+   49  ls
+   50  cd adsouzafa24
+   51  ls
+   52  cd tester
+   53  ls
+   54  cd..
+   55  cd ..
+   56  ls
+   57  cd testersub
+   58  rmdir testersub
+   59  ls
+   60  cd tester
+   61  ls
+   62  cd testersub
+   63  ls
+   64  cd ..
+   65  ls
+   66  cp text.txt ../testersub/
+   67  cp text.txt ../testersub
+   68  ls
+   69  cd testersub
+   70  ls
+   71  cp txt.txt ./testersub
+   72  cp text.txt ./testersub
+   73  ls
+   74  cd ..
+   75  ls
+   76  cp text.txt ./testersub
+   77  ls
+   78  cd testersub
+   79  ls
+   80  rm text.txt
+   81  ls
+   82  cd ..
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd ..
+   87  ls
+   88  cd tester
+   89  ls
+   90  cd testersub
+   91  ls
+   92  cd ..
+   93  ls
+   94  del testersub
+   95  ls
+   96  rm testersub
+   97  cd ..
+   98  ls
+   99  rm testersub
+  100  rm tester
+  101  ls
+  102  cd ..
+  103  ls
+  104  cd adsouzafa24
+  105  ls
+  106  rm tester
+  107  cp /Users/aarond/Documents/CS131_fa24_datafiles/Lec02/goodluck.txt
+  108  ls
+  109  mkdir goodbabe
+  110  ls
+  111  pwd
+  112  echo `pwd`
+  113  echo "pwd"
+  114  `pwd`
+  115  echo $HOME
+  116  cp goodluck.txt
+  117  ls
+  118  cp goodluck.txt ./goodbabe
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd adsouzafa24
+  123  ls
+  124  vim class_practice.sh
+  125  ls
+  126  sh class_practice.sh AARON DSOUZA
+  127  ls
+  128  vim class_practice.sh
+  129  ls
+  130  rm goodbabe
+  131  cd goodbabe
+  132  ls
+  133  cd ..
+  134  rm tester
+  135  cd ..
+  136  cd adsouzafa24
+  137  ls
+  138  rmdir goodbabe
+  139  rmdir tester
+  140  cd tester
+  141  ls
+  142  rmdir testersub
+  143  rm text.txt
+  144  cd ..
+  145  rmdir tester
+  146  ls
+  147  vim class_practice.sh
+  148  sh class_practice.sh AARON DSOUZA
+  149  vim class_practice.sh
+  150  sh class_practice.sh AARON DSOUZA
+  151  vim class_practice.sh
+  152  sh class_practice.sh AARON DSOUZA
+  153  vim class_practice.sh
+  154  sh class_practice.sh AARON DSOUZA
+  155  vim class_practice.sh
+  156  sh class_practice.sh AARON DSOUZA
+  157  vim class_practice.sh
+  158  ls
+  159  wget www.github.com
+  160  ls
+  161  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  162  ls
+  163  vi ~/.vimrc
+  164  ls
+  165  cd ..
+  166  cd adsouzafa24
+  167  ls
+  168  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  169  ls
+  170  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  171  ls
+  172  vi ~/.vimrc
+  173  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+  174  ls
+  175  vi ~/.vimrc
+  176  ls -lah
+  177  ls
+  178  ls -l
+  179  git pull
+  180  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  181  git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  182  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  183  ls -al ~/.ssh
+  184  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  185  ssh-keygen -t rsa -b 4096 -C "aarondsouza42@gmail.com"
+  186  ssh-add ~/.ssh/id_rsa
+  187  ssh-add ~/.ssh/id_rsa/temp
+  188  ls -al ~/.ssh
+  189  cat ~/.ssh/id_rsa/temp.pub
+  190  cd /mnt/scratch/FA24_CS131_Jessica/adsouzafa24/.ssh/
+  191  ls
+  192  cd known_hosts
+  193  ssh-keygen -t rsa -b 4096 -C "aarondsouza42@gmail.com"
+  194  eval "$(ssh-agent -s)"
+  195  cd ..
+  196  ls
+  197  cd adsouzafa24
+  198  eval "$(ssh-agent -s)"
+  199  ssh-add ~/.ssh/id_rsa
+  200  cat ~/.ssh/id_rsa.pub
+  201  ssh -T git@github.com
+  202  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles/tree/main
+  203  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  204  ls
+  205  vi ~/.vimrc
+  206  ls
+  207  rm temp
+  208  rm temp.pub
+  209  printenv
+  210  printenv HOME
+  211  vi ~/.bash_profile
+  212  vi ~/.bashrc
+  213  vi ~/.bash_profile
+  214  source ~/.bashrc
+  215  vi ~/.bashrc
+  216  ll
+  217  mkdir dsouzaA_A4
+  218  ls
+  219  cd dsouzaA_A4
+  220  who
+  221  date
+  222  $<VARIABLE> 
+  223  <VARIABLE> 
+  224  USER
+  225  $USER
+  226  date
+  227  $HOME
+  228  $USER
+  229  LS
+  230  ls
+  231  vi activity_one
+  232  ls
+  233  sh activity_one
+  234  date
+  235  vi activity_one
+  236  sh activity_one
+  237  vi activity_one
+  238  sh activity_one
+  239  ls
+  240  cd dsouzaA_A4
+  241  ls
+  242  vim activity_one
+  243  vi activity_one
+  244  clear
+  245  vim activity_one
+  246  date
+  247  vim activity_one
+  248  sh activity_one
+  249  vim activity_one
+  250  sh activity_one
+  251  vim activity_one
+  252  sh activity_one
+  253  vim activity_one
+  254  sh activity_one
+  255  vim activity_one
+  256  sh activity_one
+  257  vim activity_one
+  258  sh activity_one
+  259  vim activity_one
+  260  sh activity_one
+  261  vim activity_one
+  262  sh activity_one
+  263  vim activity_one
+  264  sh activity_one
+  265  vim activity_one
+  266  sh activity_one
+  267  vim activity_one
+  268  sh activity_one
+  269  vim activity_one
+  270  sh activity_one
+  271  USER
+  272  $USER
+  273  <USER>
+  274  <user?
+  275  <user>
+  276  who
+  277  vim activity_one
+  278  sh activity_one
+  279  vim activity_one
+  280  sh activity_one
+  281  vim activity_one
+  282  sh activity_one
+  283  USER
+  284  $USER
+  285  $HOME
+  286  HOME
+  287  $USER
+  288  vim activity_one
+  289  $USER
+  290  sh activity_one
+  291  vim activity_one
+  292  sh activity_one
+  293  vim activity_one
+  294  sh activity_one
+  295  vim activity_one
+  296  vim activity_two.sh
+  297  sh activity_one
+  298  sh activity_two
+  299  ls
+  300  sh activity_two.sh
+  301  sh activity_two.sh aaron 10
+  302  mv activity_two.sh activity_two
+  303  ls
+  304  vim activity_two
+  305  sh activity_two aaron 20mil
+  306  vim activity_two
+  307  cat activity_one activity_two >> echoing.sh
+  308  ls
+  309  vim echoing.sh
+  310  sh echoing.sh aaron 23
+  311  vim echoing.sh
+  312  sh echoing.sh aaron 23
+  313  vim echoing.sh
+  314  sh echoing.sh aaron 23
+  315  vim echoing.sh
+  316  sh echoing.sh aaron 23
+  317  vim echoing.sh
+  318  sh echoing.sh aaron 23
+  319  vim echoing.sh
+  320  sh echoing.sh aaron 23
+  321  vim echoing.sh
+  322  sh echoing.sh aaron 23
+  323  vim echoing.sh
+  324  sh echoing.sh aaron 23
+  325  vim echoing.sh
+  326  sh echoing.sh aaron 23
+  327  vim echoing.sh
+  328  sh echoing.sh aaron 23
+  329  vim echoing.sh
+  330  sh echoing.sh aaron 23
+  331  vim echoing.sh
+  332  sh echoing.sh aaron 23
+  333  vim echoing.sh
+  334  sh echoing.sh aaron 23
+  335  vim echoing.sh
+  336  sh echoing.sh aaron 23
+  337  vim echoing.sh
+  338  sh echoing.sh aaron 23
+  339  vim echoing.sh
+  340  sh echoing.sh aaron 23
+  341  vim echoing.sh
+  342  man bc
+  343  vim echoing.sh
+  344  sh echoing.sh aaron 23
+  345  vim echoing.sh
+  346  sh echoing.sh aaron 23
+  347  sh echoing.sh Aaron 27
+  348  vim echoing.sh
+  349  sh echoing.sh Aaron 27
+  350  vim echoing.sh
+  351  sh echoing.sh Aaron 27
+  352  vim echoing.sh
+  353  sh echoing.sh Aaron 27
+  354  ls
+  355  vim echoing.sh
+  356  ls
+  357  rm activity_one
+  358  ls
+  359  vim echoing.sh
+  360  ls
+  361  rm activity_two
+  362  ls
+  363  cd ..
+  364  ls
+  365  git checkout
+  366  git add dsouzaA_A4
+  367  git pull git@github.com:CS131-BigDataProcessing/mini-assignments-aarons767.git
+  368  pwd
+  369  ls -l
+  370  ls -a
+  371  ls
+  372  cd dsouzaA_A4
+  373  ls -a
+  374  cd ..
+  375  ls
+  376  cd adsouzafa24
+  377  ls
+  378  git --version
+  379  export GIT_DISCOVERY_ACROSS_FILESYSTEM=1
+  380  ls
+  381  ls -a
+  382  cd CS131_fa24_datafiles
+  383  ls -a
+  384  cd ..
+  385  cd adsouzafa24
+  386  git pull git@github.com:CS131-BigDataProcessing/mini-assignments-aarons767.git
+  387  ls
+  388  git init
+  389  ls -a
+  390  git pull fatal: not a git repository (or any of the parent directories): .git
+  391  git pull git@github.com:CS131-BigDataProcessing/mini-assignments-aarons767.git
+  392  ls
+  393  git checkout
+  394  git branch
+  395  git checkout main
+  396  ls
+  397  cd dsouzaA_A4
+  398  ls -a
+  399  git init
+  400  git add .
+  401  git commit -m "Finished Assignment 4 echoin.sh script"
+  402  git config --global user.email "aarondsouza42@gmail.com"
+  403  git config --global user.name "aarons767"
+  404  ls -a
+  405  git remote add origin git@github.com:CS131-BigDataProcessing/mini-assignments-aarons767.git
+  406  git branch
+  407  git status
+  408  git checkout main
+  409  git git status
+  410  git checkout main
+  411  git pull git@github.com:CS131-BigDataProcessing/mini-assignments-aarons767.git
+  412  git status
+  413  cd ..
+  414  ls
+  415  git add dsouzaA_A4
+  416  git rm --cached dsouzaA_A4
+  417  rm -rf dsouzaA_A4/.git
+  418  git add dsouzaA_A4
+  419  git commit -m "Finished A4"
+  420  git status
+  421  ls 
+  422  ls -a
+  423  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-aarons767.git
+  424  ls
+  425  cd mini-assignments-aarons767
+  426  git add dsouzaA_A4
+  427  cd ..
+  428  ls
+  429  mv ./dsouzaA_A4 ./mini-assignments-aarons767
+  430  ls
+  431  cd mini-assignments-aarons767
+  432  ls
+  433  git add dsouzaA_A4
+  434  git commit -m "Finished Asignment4 shell scripts"
+  435  ls
+  436  cd dsouzaA_A4
+  437  ls
+  438  cd ..
+  439  ls
+  440  cd mini-assignments-aarons767
+  441  ls
+  442  cd dsouzaa_A2
+  443  ls
+  444  cd ..
+  445  ls
+  446  cd dsouzaA_A4
+  447  ls
+  448  vim echoing.sh
+  449  ls
+  450  rmdir dsouzaa_A2
+  451  cd dsouzaa_A2
+  452  ls
+  453  dsouzaa_a2_cmds.log
+  454  rm dsouzaa_a2_cmds.log
+  455  rm dsouzaa_a2_counts.txt
+  456  ls
+  457  cd ..
+  458  ls
+  459  rmdir dsouzaa_A2
+  460  ls
+  461  rm a2_shell_log.txt
+  462  ls
+  463  rm LICENSE
+  464  rm README.md
+  465  ls
+  466  cd ..
+  467  ls
+  468  cd dsouzaa_A2
+  469  ls
+  470  cd ..
+  471  ls
+  472  cd dsouzaA_A4
+  473  ls
+  474  cd ..
+  475  ls
+  476  git add -u
+  477  git commit -m "Finished A4"
+  478  git status
+  479  git push origin main
+  480  ls
+  481  vim tester
+  482  ls
+  483  sh teser
+  484  sh tester
+  485  vim tester
+  486  sh tester
+  487  USERS
+  488  $user
+  489  $USER
+  490  USER
+  491  USERS
+  492  $USERS
+  493  date
+  494  ls
+  495  rm tester
+  496  mkdir dsouzaA_A5
+  497  LS
+  498  ls
+  499  cd dsouzaA_A5
+  500  ls
+  501  vim age.sh
+  502  ls
+  503  sh age.sh 10
+  504  vim age.sh
+  505  sh age.sh 10
+  506  ls
+  507  vim age.sh
+  508  sh age.sh 10
+  509  ls
+  510  sh age.sh 10
+  511  vim age.sh
+  512  sh age.sh 10
+  513  sh age.sh 1
+  514  vim age.sh
+  515  sh age.sh 1
+  516  vim age.sh
+  517  sh age.sh 1
+  518  vim age.sh
+  519  sh age.sh 1
+  520  vim age.sh
+  521  sh age.sh 1
+  522  sh age.sh 100
+  523  sh age.sh 14
+  524  sh age.sh 20
+  525  sh age.sh 63
+  526  sh age.sh 67
+  527  sh age.sh 13
+  528  sh age.sh 12
+  529  ls
+  530  vim temperature.sh
+  531  ls
+  532  sh temperature.sh 2
+  533  vim temperature.sh
+  534  sh temperature.sh 2
+  535  vim temperature.sh
+  536  vim age.sh
+  537  sh temperature.sh 2
+  538  vim temperature.sh
+  539  sh temperature.sh 2
+  540  vim temperature.sh
+  541  sh temperature.sh 2
+  542  sh temperature.sh 90
+  543  vim temperature.sh
+  544  sh temperature.sh 56
+  545  sh temperature.sh 3
+  546  vim temperature.sh
+  547  vim temperature.sh
+  548  sh temperature.sh 3
+  549  vim temperature.sh
+  550  sh temperature.sh 3
+  551  sh temperature.sh 62
+  552  vim temperature.sh
+  553  sh temperature.sh 62
+  554  sh temperature.sh 5
+  555  sh temperature.sh 97
+  556  sh temperature.sh 73
+  557  ls
+  558  vim age.sh
+  559  sh age.sh 5
+  560  sh age.sh 17
+  561  sh age.sh 48
+  562  sh age.sh 72
+  563  ls
+  564  cd ..
+  565  ls
+  566  mv ./dsouzaA_A5 ./mini-assignments-aarons767
+  567  ls
+  568  cd mini-assignments-aarons767
+  569  ls
+  570  git add dsouzaA_A5
+  571  git commit -m "Finished assignment 5"
+  572  git push
+  573  ls
+  574  vi airline_inquiry.txt
+  575  ls
+  576  cd CS131_fa24_datafiles
+  577  ls
+  578  git pull git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  579  ls
+  580  cd Lec07
+  581  ls
+  582  vi lec07_class.sh
+  583  cd ..
+  584  ls
+  585  cd Lec08
+  586  ls
+  587  vi airline_stats.csv
+  588  awk -F, '{print $4}' airline_stats.csv
+  589  awk '{print $4}' airline_stats.csv
+  590  awk -F, '{print $4}' airline_stats.csv
+  591  awk '{print $4}' airline_stats.csv
+  592  awk -F, '{print $4}' airline_stats.csv | uniq
+  593  ls
+  594  cd..
+  595  cd ..
+  596  ls
+  597  cd CS131_fa24_datafiles
+  598  ls
+  599  cd Lec08
+  600  ls
+  601  cd CS131_fa24_datafiles
+  602  ls
+  603  cd Lec08
+  604  ls
+  605  awk -F, '{print $4}' airline_stats.csv
+  606  awk -F, '{print $4}' airline_stats.csv|uniq
+  607  cd ..
+  608  ls
+  609  cd ..
+  610  ls
+  611  vi airline_inquiry.txt
+  612  ls
+  613  cd CS131_fa24_datafiles
+  614  cd Lec08
+  615  ls
+  616  vi airline_stats.csv
+  617  cd ..
+  618  ls
+  619  cd ..
+  620  ls
+  621  cd CS131_fa24_datafiles
+  622  cd Lec08
+  623  ls
+  624  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort
+  625  cd ..
+  626  ls
+  627  vi airline_inquiry.txt
+  628  ls
+  629  cd CS131_fa24_datafiles
+  630  cd Lec08
+  631  awk -F, -v Threshold=15 '$1 > Threshold {print $4}    ' airline_stats.csv  
+  632  awk -F, -v Threshold=15 '$1 > Threshold {print $4}    ' airline_stats.csv  | sort
+  633  awk -F, -v Threshold=15 '$1 > Threshold {print $4}    ' airline_stats.csv  
+  634  awk -F, -v Threshold=15 '$1 > Threshold {print $4}    ' airline_stats.csv  | sort | uniq
+  635  awk -F, -v Threshold=15 '$1 > Threshold {print $4}    ' airline_stats.csv  | uniq
+  636  cd ..
+  637  ls
+  638  cd CS131_fa24_datafiles
+  639  cd Lec08
+  640  cd ..
+  641  ls
+  642  vi airline_inquiry.txt
+  643  ls
+  644  history > a6_cmds.log

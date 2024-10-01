@@ -1,0 +1,12 @@
+Question 1)
+The airlines are as follows: American, Alaska, Jet Blue, Delta,
+United, Soutwest. I used the awk -F, '{print $4}' airline_stats.csv
+command to get this informatino. It basically helped print the fourth 
+command separated item. 
+Question 2)
+A)The airlines that have a carrier delay greater than 10 are:
+American Airlines, Alaska, Jet blue, Delta, United, Southwest.
+We used the command: awk -F, '$1 > 10 {print $4}' aurline_stats.csv | sort
+B)I used the following command to find airlines with a carrier delay greater
+than the threshold of 15: awk -F, -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv. The airlines are:American, Delta, United, JetBlue, Southwest, Alaska (in unordered state).
+
