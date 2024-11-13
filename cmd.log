@@ -1,0 +1,50 @@
+  750  ssh AB_NYC_2019.csv
+  751  ls
+  752  cat AB_NYC_2019.csv
+  753  ssh AB_NYC_2019.csv
+  754  ls
+  755  sh preprocess.sh
+  756  vim preprocess.sh
+  757  ls
+  758  vim class_practice.sh
+  759  ls
+  760  cd mini-assignments-aarons767
+  761  ls
+  762  cd adsouzaA_A6
+  763  ls
+  764  cat a6_cmds.log
+  765  ls
+  766  cd mini-assignments-aarons767
+  767  ls
+  768  sed '/NULL/d' ./server_log.csv > ./server_log_remove_null.csv
+  769  cat server_log_remove_null.csv
+  770  wc -l server_log_no_null.csv
+  771  wc -l server_log_remove_null.csv
+  772  sed 's/\t/,/g' house_sales.csv
+  773  cat house_sales.csv
+  774  sed 's/\t/,/g' house_sales.csv > house_comma_separated.csv
+  775  cat house_comma_separated.csv
+  776  awk -F, '{sum += $3; count++} END {print sum / count}'  ./house_sales.csv
+  777  cat house_sales.csv
+  778  awk -\t, '{sum += $3; count++} END {print sum / count}'  ./house_sales.csv
+  779  awk -'\t', '{sum += $3; count++} END {print sum / count}'  ./house_sales.csv
+  780  awk -F'\t', '{sum += $3; count++} END {print sum / count}'  ./house_sales.csv
+  781  awk -F'\t', '{sum += $2; count++} END {print sum / count}'  ./house_sales.csv
+  782  awk -F'\t', 'NR > 1 {sum += $3; count++} END {print sum / count}'  ./house_sales.csv
+  783  cat house_sales.csv
+  784  awk -F'\t', '{sum += $4; count++} END {print sum / count}' ./house_sales.csv
+  785  awk -F'\t' 'NR > 1 {sum += $4; count++} END {print sum / count}' ./house_sales.csv
+  786  awk -F, '{sum += $2; count++} END {print sum / count}' ./house_sales.csv
+  787  awk -F, 'NR > 1 {sum += $2; count++} END {print sum / count}' ./house_sales.csv
+  788  awk -F, 'NR > 1 {sum += $3; count++} END {print sum / count}' ./house_sales.csv
+  789  awk -'\t' 'NR > 1 {sum += $2; count++} END {print sum / count}' ./house_sales.csv
+  790  awk -'\t' 'NR > 1 {sum += $3; count++} END {print sum / count}' ./house_sales.csv
+  791  awk -F'\t' 'NR > 1 {sum += $2; count++} END {print sum / count}' ./house_sales.csv
+  792  awk -F'\t' 'NR > 1 {sum += $3; count++} END {print sum / count}' ./house_sales.csv
+  793  history | tail -n 50 > cmd.log
+  794  ls
+  795  cat cmd.log
+  796  awk -F, '$2 > 400 {print $0}' ./server_log.csv > ./User_ID_gt_400.txt
+  797  ls
+  798  cat User_ID_gt_400.txt
+  799  history | tail -n 50 > cmd.log
