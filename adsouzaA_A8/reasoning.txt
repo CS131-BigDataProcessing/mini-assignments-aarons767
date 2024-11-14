@@ -1,0 +1,18 @@
+Finding missing values--
+I used awk to scan each row and column for missing values. This would scan for both, 
+strings and spaces. This would help us get a cleaner dataset to work with and give
+acurate/less biased results in the fuure
+
+We also used awk and loops significantly to loop through rows, checking for missing values,
+new lines, and spaces. 
+
+
+We created two versions for the dataset: one with missing rows removed and another with missing values replaced with 'NA'. We thought having two separate results might come handy in the future
+in case we needed to see trends in terms of which locations tend to have data unreported. 
+
+
+We also removed duplicated entries using sort and uniq. These were simple instructions. This was
+important as duplicates are know to skew data analysis results, leading to inaccurate models or statistics.
+
+Outliers can affect the average more than the median or mode and can distory the outcome of the entire dataset. Since we got around 128 for mean dn 95 for median, we can tell that our data is right-skewed. It looks like we might have some really high-value outliers that really end up increasing the
+mean value. We might have to look for ways to find these high-value outliers in the future
