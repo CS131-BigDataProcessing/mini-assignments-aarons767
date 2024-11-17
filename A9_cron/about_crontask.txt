@@ -1,0 +1,22 @@
+
+Command for prompt 4: Sending a Disk Usage Report using Cron
+30 8 * * * df -h | mail -s "Daily Disk Usage Report" aarondsouza42@gmail.com
+
+
+What other types of tasks (provide 2) could benefit from automation using cron or at? (4 pts)
+- One task that would benefit from cron could be reoutine system updates. We could
+schedule something like * * * * * apt-get update or upgrade using cron to make sure we're keeping
+our computers and/ or software utilities are up to date. We could also look into networking and use
+the ping command to ping servers from time to time and see if they're up to date. For instance,
+we could use a command like 1 1 1 * * ping -c 1 somewebsite || echo "Site down"
+
+
+b. What potential risks are there with poorly managed automated tasks, and how can you avoid them (e.g., ensuring backups work correctly)? (2 pts)
+- One potential risk of poorly managed automated tasks is that it can lead to the wrong files being deleted. This can be avoided by requiring addtional confirmations before making any kinds of deletions. Also, if we have scripts that run too often, we could consume an excessive amount of cpu resources which could slow down or crash a task altogether. We could avoid this by smartly scheduling intensive tasks with appropriate intervals. There might also be cases where the task might not end up notifying the user about a failure. If this is this case, we could end up in a larger conflicts overtime. This can be avoided by using error handling scripts and making sure we incorporate scripts that log errors to a particular logging directory for reference.   
+
+
+
+
+  
+
+

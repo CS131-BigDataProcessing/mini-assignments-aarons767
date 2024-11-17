@@ -1,0 +1,11 @@
+
+#File cleanup dont everyday at 2:00AM
+0 2 * * * /bin/rm -rf /Users/aarond/Documents/adsouza_A9/tester/*
+
+
+#Home directory backup on Sunday at 3:00AM
+0 3 * * 0 tar -czf /Users/aarond/Documents/adsouza_A9/backups/$(date +\%Y-\%m-\%d).tar.gz /Users/aarond/Documents/adsouza_A9/test/
+
+#Cron job that emails disk report to email
+30 8 * * * df -h | mail -s "Daily Disk Usage Report" aarondsouza42@gmail.com
+
