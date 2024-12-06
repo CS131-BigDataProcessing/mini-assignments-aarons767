@@ -1,0 +1,3 @@
+
+Summary of build:
+My classmate could easily install the package. I basically sent him both the .whl and .tar.gz files that were generated within the /dist folder. They did had an error with the version but after doing pip install -r requirements.txt, everything seem to work fine. I faced a similar issue when testing of his build but it was resolved by installing the requirements.
