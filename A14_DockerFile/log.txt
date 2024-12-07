@@ -1,0 +1,16 @@
+ 1022  vim app.py
+ 1023  docker build -t my-python-app .\n
+ 1024  docker build -t my-python-app .\n
+ 1025  ls
+ 1026  docker build -t my-python-app .\ndocker run my-python-app\n\n
+ 1027  docker build -t my-python-app .\n\n
+ 1028  numpy --version
+ 1029  ls
+ 1030  docker build -t my-python-app .\n\n
+ 1031  ls
+ 1032  docker run my-python-app\n\n
+ 1033  docker run my-python-app\n\n
+ 1034  docker build -t my-python-app .\n\n
+ 1035  docker run my-python-app\n\n
+ 1036  ls
+ 1037  vim requirements.txt
