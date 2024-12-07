@@ -1,0 +1,18 @@
+2024-12-06 23:10:13	-	voluminous_dalembert	-	2089e40f6aaa9001da667b4cebdd6372	1f31da9a-9688-44cd-8d84-78453205acf4	nextflow run allcaps.nf
+2024-12-06 23:11:07	-	reverent_bohr	-	f0e24ac74088a7d72a27caedf5151a09	4942a647-df52-4060-8b78-29d9c086cb8a	nextflow run allcaps.nf
+2024-12-06 23:20:50	-	gigantic_mirzakhani	-	9e2764e438cea4f24f5c6e2409f0c285	52d1c564-2d34-4eb8-aa14-2167b27b89c9	nextflow run allcaps.nf
+2024-12-07 00:22:01	-	chaotic_cray	-	9e2764e438cea4f24f5c6e2409f0c285	1ab4c917-2a8d-4fa4-a219-6ecde483518e	nextflow run allcaps.nf
+2024-12-07 00:24:30	960ms	agitated_goodall	ERR	018ca4028ac57a578cf5d4e74afc0280	4845bd85-15f9-430c-92b8-203bc55f3a37	nextflow run allcaps.nf
+2024-12-07 00:28:39	1.4s	agitated_joliot	ERR	ae99ba44799153715a3e20c28bd1cff3	2f557c36-6eb5-4cdf-9eb2-7b02c28a61bb	nextflow run allcaps.nf
+2024-12-07 00:32:11	1.6s	golden_nobel	ERR	f01c4ce22715e5408ab43c4c52f168e5	14c259f7-63ee-4930-80b8-a6281e33d7a9	nextflow run allcaps.nf
+2024-12-07 00:38:46	883ms	trusting_volta	ERR	f01c4ce22715e5408ab43c4c52f168e5	224b8be9-df9e-49e7-8038-e5ab8456f8da	nextflow run allcaps.nf
+2024-12-07 00:41:38	-	infallible_perlman	-	83d09646b6e4f515530f846a5c8a8e11	03e59a22-1a4c-4260-9120-b34d67b5d801	nextflow run allcaps.nf
+2024-12-07 00:45:52	-	pensive_allen	-	1182578fb80f99c0ca6aebfcd512aad2	5328ccc7-7226-4bb0-bad0-30f19413abb2	nextflow run allcaps.nf
+2024-12-07 00:46:56	1.2s	exotic_goldstine	OK	5a928ab505e89708c689d05c6d3989c3	2e3a58ec-4dca-4743-9cf6-908e4392435e	nextflow run allcaps.nf
+2024-12-07 02:52:45	1s	cheesy_morse	ERR	54c64dd3bd252f4365078cce092f9f64	94483158-c1be-4ed5-a176-c571716ebe87	nextflow run allcaps.nf
+2024-12-07 02:54:16	1.6s	festering_kirch	ERR	ce08d7c6bad19631664a7af2ed73c20d	a1aea868-27c0-4be6-8315-d5d147b4d3fe	nextflow run allcaps.nf
+2024-12-07 02:54:50	826ms	goofy_noether	OK	5a928ab505e89708c689d05c6d3989c3	4d61fe99-6e3c-4a36-9523-757424ef67a6	nextflow run allcaps.nf
+2024-12-07 03:01:55	1.6s	grave_allen	OK	5a928ab505e89708c689d05c6d3989c3	462e2d24-2133-418a-9a88-20167107ee8f	nextflow run allcaps.nf --outputDir ./results
+2024-12-07 03:05:02	1.4s	irreverent_sax	OK	7c7380e72f32123e7c6d0e9a14e35386	f230b32a-68c7-4150-bf95-bfe6b17d584b	nextflow run allcaps.nf
+2024-12-07 03:19:32	1.1s	disturbed_wiles	OK	7c7380e72f32123e7c6d0e9a14e35386	0903be16-c512-44bf-a774-e20f43c7fea9	nextflow run allcaps.nf
+2024-12-07 03:23:39	1.2s	stoic_hamilton	OK	790bca09718e47831ca114a5c1b1e465	b413d4f0-9ed1-4343-98c5-57eeb21163d0	nextflow run allcaps.nf
